@@ -56,4 +56,6 @@ A aplicação consiste em uma tela de lista de quadrinhos, um modal de detalhe d
 ## Objetivo [Concluído]
 
 ### Comentário:
-Foi criado uma aplicação como foi requisitado para uma entrevista de emprego, a cronometragem do tempo realizado foi de 48 Horas em média.
+- Foi criado uma aplicação como foi requisitado para uma entrevista de emprego, a cronometragem do tempo realizado foi de 48 Horas em média.
+- Foi tentado colocar live preview na plataforma da vercel porém a API foi bloqueada. (Para rodar localmente você terá que trocar as chaves de API em (hooks/MarvelApi.js)
+
