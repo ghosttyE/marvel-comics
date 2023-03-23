@@ -1,0 +1,39 @@
+.NotFound-AppMaster {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background: #262626;
+}
+
+.NotFound-AppMaster-Error {
+    text-align: center;
+    font-size: 4vw;
+    letter-spacing: 0.3rem;
+    color: white;
+}
+
+a.NotFound-AppMaster-Home-Button {
+    text-decoration: none;
+    color: white;
+    width: 10%;
+    height: 4%;
+    background: #e50b14;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.9vw;
+    margin: 4% 0;
+}
+
+a.NotFound-AppMaster-Home-Button:hover {
+    cursor: pointer;
+    background: #d10911;
+}
